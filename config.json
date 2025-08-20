@@ -59,5 +59,13 @@
         }
       ]
     }
+    ,
+    {
+      "id": "math-quiz-game",
+      "title": "Math Quiz Game",
+      "description": "Build a Python program that generates a math quiz for practicing arithmetic skills.",
+      "path": "assignments/math",
+      "dueDate": "2025-08-27"
+    }
   ]
 }
